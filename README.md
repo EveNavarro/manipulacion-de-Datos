@@ -1,7 +1,7 @@
 # Manipulacion de Datos [pdf](https://github.com/EveNavarro/manipulacion-de-Datos/tree/master/public/pdf%20-%20ejercitacion)
 Módulo 6: Base de datos
 
-## Práctica integradora
+## Práctica integradora.
 
   ## :pushpin: MICRO DESAFÍO - Paso 1 
   
